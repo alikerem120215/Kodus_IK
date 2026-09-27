@@ -1,0 +1,21 @@
+{
+  "name": "Kodus İK - Yapay Zeka Destekli İK Platformu",
+  "short_name": "Kodus İK",
+  "description": "Yeni Nesil İK ve Yapay Zeka Eklenti Ekosistemi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/bottts/svg?seed=KodusAppIcon",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/bottts/svg?seed=KodusAppIcon",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
